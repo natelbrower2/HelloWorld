@@ -1,6 +1,6 @@
 # Overview
 
-This is a basic hellow world program. It displays the message "Hello World" to the terminal.
+This is a basic hello world program. It displays the message "Hello World" to the terminal.
 
 The purpose of creating this software was to demonstrate the use of Visual Studio code, GitHub, and Python integrated together.
 
